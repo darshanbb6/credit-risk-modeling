@@ -58,10 +58,10 @@ However, the balanced model also incorrectly classified more good-credit cases a
 ## Visualizations
 
 ### Original Logistic Regression
-![Original model confusion matrix](images/original_confusion_matrix.png)
+![Original model confusion matrix](original_confusion_matrix.png)
 
 ### Balanced Logistic Regression
-![Balanced model confusion matrix](images/balanced_confusion_matrix.png)
+![Balanced model confusion matrix](balanced_confusion_matrix.png)
 
 ## Key Learnings
 - Why accuracy alone is insufficient for evaluating classification models.
@@ -77,8 +77,8 @@ Attributes such as age, sex-related information, and foreign-worker status raise
 ## Project Files
 - `README.md` — Project documentation
 - `model_comparison.csv` — Evaluation metrics for both models
-- `images/original_confusion_matrix.png` — Original model evaluation
-- `images/balanced_confusion_matrix.png` — Balanced model evaluation
+- `original_confusion_matrix.png` — Original model evaluation
+- `balanced_confusion_matrix.png` — Balanced model evaluation
 - Python notebook or script — Data preparation, training, and evaluation
 
 ## Conclusion
