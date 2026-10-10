@@ -1,7 +1,7 @@
+- `requirements.txt` — Required Python libraries
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
 ucimlrepo
-- `requirements.txt` — Required Python libraries
