@@ -80,6 +80,7 @@ Attributes such as age, sex-related information, and foreign-worker status raise
 - `original_confusion_matrix.png` — Original model evaluation
 - `balanced_confusion_matrix.png` — Balanced model evaluation
 - Python notebook or script — Data preparation, training, and evaluation
+- `requirements.txt` — Required Python libraries
 
 ## Conclusion
 This project demonstrates an end-to-end introductory credit risk classification workflow using Python and Scikit-learn. Comparing standard and class-balanced Logistic Regression models highlights how the choice of evaluation metric affects model assessment.
